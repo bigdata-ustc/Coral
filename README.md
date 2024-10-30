@@ -10,7 +10,7 @@ Announcements:
 To run the codes using the Junyi dataset:
 1. Navigate to the code directory:
    ```
-   cd Coral
+   cd Coral/Coral
    ```
 2. Create two folders '/model' and '/result':
    ```
