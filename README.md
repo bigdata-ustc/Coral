@@ -4,7 +4,8 @@ This repository contains the implementation for the paper titled Collaborative C
 
 Announcements:
 --
-- ### 🔈We publish the source code of Coral， 2024-10-30. 
+- ### 🔈We upload the sldies and the presentation video of Coral, 2024-11-13. 
+- ### 🔈We publish the source code of Coral, 2024-10-30. 
 
 ## Example to Run the Codes
 To run the codes using the Junyi dataset:
@@ -40,4 +41,4 @@ Please cite this paper if you use our codes. Thanks!
 }
 ```
 
-### Last Update Date: Oct 30, 2024
+### Last Update Date: Nov 13, 2024
