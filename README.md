@@ -32,8 +32,11 @@ To run the codes using the Junyi dataset:
 Please cite this paper if you use our codes. Thanks!
 
 ```
-@inproceedings{gao2021rcd,
-
+@article{gao2024collaborative,
+  title={Collaborative Cognitive Diagnosis with Disentangled Representation Learning for Learner Modeling},
+  author={Gao, Weibo and Liu, Qi and Yue, Linan and Yao, Fangzhou and Wang, Hao and Gu, Yin and Zhang, Zheng},
+  journal={arXiv preprint arXiv:2411.02066},
+  year={2024}
 }
 ```
 
