@@ -1,6 +1,6 @@
 # Coral: Collaborative Cognitive Diagnosis with Disentangled Representation Learning for Learner Modeling
 
-This repository contains the implementation for the paper titled Collaborative Cognitive Diagnosis with Disentangled Representation Learning for Learner Modeling, published at NeurIPS'2024.
+This repository contains the implementation for the paper titled Collaborative Cognitive Diagnosis with Disentangled Representation Learning for Learner Modeling, published at NeurIPS'2024. [[Paper](https://arxiv.org/pdf/2411.02066)][[Presentation Video](https://recorder-v3.slideslive.com/#/share?share=97617&s=466afef2-abbf-4458-87a8-dc4429b4095f)]
 
 Announcements:
 --
